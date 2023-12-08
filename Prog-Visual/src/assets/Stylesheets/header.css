@@ -1,0 +1,19 @@
+header {
+    font-family: 'Dancing Script', cursive;
+      background-color: #ffffff;
+      color: #fff;
+      padding: 10px;
+      display: flex;
+      align-items: center;
+      flex-direction: row-reverse;
+    }
+  
+    header img {
+      width: 10%;
+    }
+  
+    header> h1{
+      margin-right: auto;
+      margin-left: auto;
+      font-size: 60px;
+    }

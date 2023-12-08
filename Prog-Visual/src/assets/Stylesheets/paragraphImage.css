@@ -1,0 +1,17 @@
+.paragraph-with-image {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 0;
+  }
+  
+  .paragraph-with-image p {
+    flex: 1;
+    margin-right: 20px;
+  }
+  
+  .paragraph-with-image img {
+    max-width: 10%;
+    display: flex;
+    justify-content: right;
+  }

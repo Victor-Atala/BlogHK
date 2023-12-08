@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+html{
+  background-color: black;
+  color: #fff;
+} 
+  
+  div p {
+    font-size: 25px;
+    margin: 10px;
+  }
+  
+
+ 

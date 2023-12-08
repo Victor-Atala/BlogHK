@@ -1,0 +1,22 @@
+.image-carousel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+    overflow: scroll;
+
+    
+  }
+  .image-carousel::-webkit-scrollbar {
+    background-color: transparent;
+    width: 1%;
+  }
+  
+  .image-carousel img {
+    display: flex;
+    max-width: 22%;
+    margin: 0 10px;
+    scroll-snap-align: center;
+
+  }
